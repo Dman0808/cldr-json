@@ -25,5 +25,8 @@
   "license": "Unicode-3.0",
   "bugs": "https://cldr.unicode.org/index/bug-reports#TOC-Filing-a-Ticket",
   "cldrVersion": "46",
-  "unicodeVersion": "16.0.0"
+  "unicodeVersion": "16.0.0",
+  "dependencies": {
+    "cldr-cal-ethiopic-full": "file:"
+  }
 }
